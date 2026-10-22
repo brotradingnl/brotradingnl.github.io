@@ -1,13 +1,13 @@
-# TikTok-app "Brotrading": wat je waar invult
+# TikTok-app "Whyyoucomingfast": wat je waar invult
 
 De site staat op `https://brotradingnl.github.io/` (GitHub-gebruiker brotradingnl).
 
 | Veld | Invullen |
 |---|---|
 | App icon | `icon.png` uit deze map (1024x1024) |
-| App name | Brotrading |
+| App name | Whyyoucomingfast |
 | Category | Tools (of "Lifestyle" als Tools er niet staat) |
-| Description | Brotrading publishes my own daily NQ/ES futures trading session recaps (post, carousel and story images) to my own TikTok account after manual approval. Educational content only, not financial advice. |
+| Description | Whyyoucomingfast publishes my own daily NQ/ES futures trading session recaps (post, carousel and story images) to my own TikTok account after manual approval. Educational content only, not financial advice. |
 | Terms of Service URL | `https://brotradingnl.github.io/terms.html` |
 | Privacy Policy URL | `https://brotradingnl.github.io/privacy.html` |
 | Platforms | Web en Desktop aanvinken; Website URL: `https://brotradingnl.github.io/` |
