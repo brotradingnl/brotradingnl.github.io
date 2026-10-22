@@ -26,3 +26,5 @@ a{color:var(--green);text-decoration:none}a:hover{text-shadow:0 0 8px rgba(108,2
 nav{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:26px}
 nav a{padding:8px 18px;border:1px solid var(--green);border-radius:999px;transform:skewX(-10deg);font-weight:600;text-transform:uppercase;font-size:.85rem;letter-spacing:1px}
 nav a:hover{background:rgba(108,255,46,.12)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+img.logo{width:min(420px,88vw);margin-bottom:22px}
